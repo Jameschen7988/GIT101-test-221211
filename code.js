@@ -1,3 +1,4 @@
+concole.log('This is for --amend')
 console.log('This is editing for Bug-Fix')
 console.log('Hello World 3')
 console.log('Hello World')
